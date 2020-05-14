@@ -1,0 +1,7 @@
+flask==1.1.1
+requests==2.22.0
+hashlib==20081119
+flask_wtf==0.14.3
+wtfforms==2.3.1
+
+
